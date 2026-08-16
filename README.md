@@ -35,9 +35,9 @@ Before running, configure your Anthropic API key:
 # Set your API key
 export ANTHROPIC_API_KEY='your-api-key-here'
 
-# Alternatively, add it to your .bashrc or .zshrc to make it permanent:
-echo "export ANTHROPIC_API_KEY='your-api-key-here'" >> ~/.bashrc
-source ~/.bashrc
+# Alternatively, add it to your .model file to make it permanent:
+echo "export ANTHROPIC_API_KEY='your-api-key-here'" >> .model
+source .model
 ```
 
 ### Usage
@@ -88,9 +88,9 @@ Sebelum menjalankan, konfigurasikan kunci API Anthropic Anda:
 # Atur API key Anda
 export ANTHROPIC_API_KEY='api-key-anda-disini'
 
-# Atau, tambahkan ke .bashrc atau .zshrc agar permanen:
-echo "export ANTHROPIC_API_KEY='api-key-anda-disini'" >> ~/.bashrc
-source ~/.bashrc
+# Atau, tambahkan ke .model agar permanen:
+echo "export ANTHROPIC_API_KEY='api-key-anda-disini'" >> .model
+source .model
 ```
 
 ### Penggunaan
