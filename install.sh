@@ -663,9 +663,6 @@ To get a working Claude Code:
   Upstream cause and status:
   https://github.com/anthropics/claude-code/issues/50270
 
-  Full explanation and other options:
-  https://github.com/ferrumclaudepilgrim/claude-code-android
-
 DONE
   PINNED_URL="https://raw.githubusercontent.com/ferrumclaudepilgrim/claude-code-android/main/install-pinned.sh"
   print_pinned_command() {
