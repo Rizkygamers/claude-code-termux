@@ -6,6 +6,9 @@ Tool to run Anthropic's official Claude Code on Termux.
 
 ## 🇬🇧 English
 
+> **Note:** Claude Code is free to use. However, please be aware of
+        potential usage limits when running it with Ollama.
+
 ### Installation
 
 Run the following commands in Termux:
@@ -56,6 +59,9 @@ claude --update-now
 ---
 
 ## 🇮🇩 Bahasa Indonesia
+
+> **Catatan:** Claude Code gratis untuk digunakan. Namun, harap perhatikan
+         adanya potensi limit penggunaan saat menjalankannya dengan Ollama.
 
 ### Instalasi
 
